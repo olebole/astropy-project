@@ -1,12 +1,10 @@
-### Title
-
-Packaging and maintenance of the Astropy ecosystem for Debian and Ubuntu
+### Packaging and maintenance of the Astropy ecosystem for Debian and Ubuntu
 
 ### Project Team
 
 Ole Streicher olebole@debian.org/@olebole
 
-### Project Description
+### Project Description / Scope of Work
 
 This is a proposal to fund the ongoing continuous maintainance and
 interaction of Astropy and its related software within Debian, Ubuntu
@@ -20,7 +18,7 @@ This project contributes to the roadmap item "Improve support for
 using Astropy tools in heterogeneous computing environments such as
 cloud environments or GPU systems."
 
-### Project / Work
+### Project / Work / Deliverables
 
  * keep Astropy in Debian and Ubuntu up to date and in good shape
 
